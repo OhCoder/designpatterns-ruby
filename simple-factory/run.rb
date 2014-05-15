@@ -11,5 +11,5 @@ when '+','-','*','/'
 
   puts "result is: #{result}"
 else
-  puts "Plese input the correct operation sign!"
+  puts "Plese input the correct operation sign! Such as '+','-','\\*','\\'!"
 end
