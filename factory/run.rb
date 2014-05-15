@@ -31,7 +31,7 @@ when '*'
 when '/'
   calculate(numberA, DivFactory.new, numberB)
 else
-  puts "Please input the right operation sign.Such as '+', '-', '\\*', '/'!"
+  puts "Please input the right operation sign.Such as '+', '-', '\\*', '\\'!"
 end
 
 
