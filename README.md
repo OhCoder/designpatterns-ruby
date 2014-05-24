@@ -1,4 +1,4 @@
-designpatterns-ruby
+Design Patterns-ruby
 ===================
 
 Design Pattern by Ruby
