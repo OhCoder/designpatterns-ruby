@@ -10,4 +10,5 @@ e.g.
 cd simple-factory/          
 ruby run.rb 1 + 2       
 or              
-ruby run.rb 1 \* 2
+ruby run.rb 1 \* 2          
+...
